@@ -1,0 +1,23 @@
+{
+  "name": "porto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyondzin/Portofolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyondzin/Portofolio/issues"
+  },
+  "homepage": "https://github.com/lyondzin/Portofolio#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
